@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:100,Pars
+#EXTINF:100,Pars TV
 #EXTVLCOPT:network-caching=1000
 https://parshls.wns.live/hls/stream.m3u8
 #EXTINF:18,Iran Intl Live
