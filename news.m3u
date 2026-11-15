@@ -5,7 +5,13 @@ https://parshls.wns.live/hls/stream.m3u8
 #EXTINF:18,Iran Intl Live
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:597, CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="",CNN International (1080p)
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8?checkedby:iptvcat.net
+#EXTINF:597, CNN International
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="",CNN International (1080p)
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8?checkedby:iptvcat.net
+#EXTINF:597, CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8?checkedby:iptvcat.net
 #EXTINF:7200,BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:1800,DW Deutsche Welle
